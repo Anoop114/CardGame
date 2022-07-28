@@ -4,4 +4,4 @@ Prototype
 Simple touch controlles for android users.
 
 ### A Gif of GamePlay
-<img src="https://github.com/Anoop114/CardGame/blob/main/CardGame/Recordings/Record.gif" width="800" height="500">
+<img src="https://github.com/Anoop114/CardGame/blob/main/CardGame/Recordings/Record.gif">
